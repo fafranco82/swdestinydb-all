@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/fafranco82/swdestinydb.git
+[submodule "data"]
+	path = data
+	url = https://github.com/fafranco82/swdestinydb-json-data.git
+[submodule "img"]
+	path = img
+	url = https://fafranco82@bitbucket.org/fafranco82/swdestinydb-img.git

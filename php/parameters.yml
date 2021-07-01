@@ -1,0 +1,22 @@
+parameters:
+    database_url: 'mysql://root:secret@database/swdestinydb'
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_port: null
+    mailer_user: null
+    mailer_password: null
+    mailer_encryption: null
+    mailer_auth_mode: null
+    secret: ThisTokenIsNotSoSecretChangeIt
+    cache_expiration: 600
+    email_sender_address: null
+    email_sender_name: null
+    website_name: SWDestinyDB
+    website_url: swdestinydb.local
+    game_name: 'Star Wars Destiny'
+    publisher_name: 'Fantasy Flight Games'
+    google_analytics_tracking_code: UA-00000000-1
+    google_adsense_client: ca-pub-000000000000000
+    google_adsense_slot: 0
+    moneytizer_site_id: null
+    moneytizer_ad_types: null
